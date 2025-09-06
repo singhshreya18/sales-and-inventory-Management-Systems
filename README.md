@@ -1,1 +1,0 @@
-# sales-and-inventory-Management-Systems
